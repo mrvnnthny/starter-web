@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mervin To mervin@it.training @aweseomemervin
 
 # THANKS
 
